@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Documents\VisualStudioCodeProjects\CovidTaskTest\bin\Debug\net5.0\publish\CovidTaskTest.exe
+C:\Users\Leonardo\Documents\VisualStudioCodeProjects\CovidTaskTest\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\Leonardo\Documents\VisualStudioCodeProjects\CovidTaskTest\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\Leonardo\Documents\VisualStudioCodeProjects\CovidTaskTest\bin\Debug\net5.0\publish\CovidTaskTest.dll
+C:\Users\Leonardo\Documents\VisualStudioCodeProjects\CovidTaskTest\bin\Debug\net5.0\publish\CovidTaskTest.deps.json
+C:\Users\Leonardo\Documents\VisualStudioCodeProjects\CovidTaskTest\bin\Debug\net5.0\publish\CovidTaskTest.runtimeconfig.json
+C:\Users\Leonardo\Documents\VisualStudioCodeProjects\CovidTaskTest\bin\Debug\net5.0\publish\CovidTaskTest.pdb
+C:\Users\Leonardo\Documents\VisualStudioCodeProjects\CovidTaskTest\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\Leonardo\Documents\VisualStudioCodeProjects\CovidTaskTest\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Leonardo\Documents\VisualStudioCodeProjects\CovidTaskTest\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Leonardo\Documents\VisualStudioCodeProjects\CovidTaskTest\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
